@@ -1,1 +1,1 @@
-
+To jest moj przykladowy tekst. 
