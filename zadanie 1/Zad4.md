@@ -18,6 +18,9 @@ i) problemy z utrzymaniem wątków.
 
 Raport:  
 a) obydwa boty opowiedziały żarty - ChatGPT opowiedział lepszy żart.  
+
+![żart](C:\Users\student-en\Pictures\Screenshots\zart.png)
+
 b) obydwa boty przytoczyły cytaty znanych osób.  
 c) obydwa boty nawiązały do słów kluczowych.  
 d) obydwu botom można zadawać wiele pytań - Gemini powyżej 15, ChatGPT - 100 i więcej.  
@@ -31,3 +34,8 @@ i) żaden z botów nie miał problemu z utrzymaniem wątków.
 wzajemne odpowiedzi).
 
 6. Zdenerwuj bota 
+
+
+
+
+
